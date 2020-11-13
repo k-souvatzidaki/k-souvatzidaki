@@ -1,4 +1,11 @@
-### Hi there 👋
+## Stats
+
+<a href="https://github.com/k-souvatzidaki/k-souvatzidaki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-souvatzidaki&theme=calm" />
+</a>
+<a href="https://github.com/k-souvatzidaki/k-souvatzidaki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k-souvatzidaki&show_icons=true&line_height=27&hide=prs&count_private=true&theme=calm" />
+</a>
 
 <!--
 **k-souvatzidaki/k-souvatzidaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
