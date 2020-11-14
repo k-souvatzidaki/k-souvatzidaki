@@ -1,7 +1,7 @@
 ## Stats 
 
 <a href="https://github.com/k-souvatzidaki/k-souvatzidaki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-souvatzidaki&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-souvatzidaki&langs_count=3&theme=calm" />
 </a>
 <a href="https://github.com/k-souvatzidaki/k-souvatzidaki">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=k-souvatzidaki&show_icons=true&line_height=27&hide=prs&count_private=true&theme=calm" />
