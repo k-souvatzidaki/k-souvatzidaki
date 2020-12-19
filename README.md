@@ -1,6 +1,7 @@
 # About me 
 - 👩 I'm an undergraduate (4th year) CS student @ AUEB
 - 📚 I'm currently working on uni projects mostly
+- ☁️ I'm interested in cloud computing and network programming, and wish to contribute to open source projects on these topics in the future
 
 ## Stats 
 
